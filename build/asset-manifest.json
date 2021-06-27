@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ROS_Robot_Control/static/css/main.f7a95142.chunk.css",
+    "main.js": "/ROS_Robot_Control/static/js/main.297abaeb.chunk.js",
+    "main.js.map": "/ROS_Robot_Control/static/js/main.297abaeb.chunk.js.map",
+    "runtime-main.js": "/ROS_Robot_Control/static/js/runtime-main.5d4def1e.js",
+    "runtime-main.js.map": "/ROS_Robot_Control/static/js/runtime-main.5d4def1e.js.map",
+    "static/js/2.c9e5b621.chunk.js": "/ROS_Robot_Control/static/js/2.c9e5b621.chunk.js",
+    "static/js/2.c9e5b621.chunk.js.map": "/ROS_Robot_Control/static/js/2.c9e5b621.chunk.js.map",
+    "static/js/3.c4475dc9.chunk.js": "/ROS_Robot_Control/static/js/3.c4475dc9.chunk.js",
+    "static/js/3.c4475dc9.chunk.js.map": "/ROS_Robot_Control/static/js/3.c4475dc9.chunk.js.map",
+    "index.html": "/ROS_Robot_Control/index.html",
+    "static/css/main.f7a95142.chunk.css.map": "/ROS_Robot_Control/static/css/main.f7a95142.chunk.css.map",
+    "static/js/2.c9e5b621.chunk.js.LICENSE.txt": "/ROS_Robot_Control/static/js/2.c9e5b621.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d4def1e.js",
+    "static/js/2.c9e5b621.chunk.js",
+    "static/css/main.f7a95142.chunk.css",
+    "static/js/main.297abaeb.chunk.js"
+  ]
+}
